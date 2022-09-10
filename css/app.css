@@ -81,6 +81,7 @@ html {
 
 .nav .logo {
   position: relative;
+  margin-bottom: -14px;
 }
 
 .nav .logo img {
