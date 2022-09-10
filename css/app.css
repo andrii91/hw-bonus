@@ -85,7 +85,6 @@ html {
 
 .nav .logo img {
   max-width: 100%;
-  margin-bottom: -14px;
 }
 
 .nav .logo .title {
@@ -94,7 +93,7 @@ html {
   font-weight: 700;
   color: #e6e6e6;
   position: absolute;
-  bottom: 0;
+  bottom: 14px;
   left: 50%;
   transform: translateX(-50%);
 }
